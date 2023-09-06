@@ -7,10 +7,6 @@
 - [Problem Statement](#problem-statement)
 - [Approach](#approach)
 - [Results](#results)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
